@@ -19,7 +19,7 @@
 - Enjoy!
 
 ## Use at your own risk!
-- Bot Spamming on Discord breaks [Discord Community Guidelines](https://discord.com/guidelines)
+- Bot Spamming on Discord, Breaks [Discord Community Guidelines](https://discord.com/guidelines)
 ```
 Do not use Discord to spam, manipulate engagement, or disrupt other people’s experience, including trying to to 
 influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes 
