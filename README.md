@@ -1,5 +1,5 @@
 ## Simple Discord Channel Spammer by Charlzk
-- Using requests to spam Discord Channels.
+- Using requests to spam Discord Channel.
 
 ## Setup
 - Install packages
