@@ -14,7 +14,7 @@
 - Choose spam options
 - Insert the Channel ID
 - Number of Spams (on Limited Spam)
-- Type a Delay per spam
+- Insert a Delay per spam
 - Insert your Message Content
 - Enjoy!
 
